@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react";
-import styles from "./Materiales.module.css";
+// import { useEffect, useState } from "react";
+// import styles from "./Materiales.module.css";
 import data from "../../data/asignaciones.json";
 
 export const Materiales = () => {
