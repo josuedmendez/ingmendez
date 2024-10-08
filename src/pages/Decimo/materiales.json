@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "Herramientas-logicas": [
+      {
+        "id": 1,
+        "nombre": "Sistemas numericos",
+        "Teoria-Descargable": [
+          {
+            "id": 1,
+            "url": "https://docs.google.com/document/d/1L7aYoQkfPtdN13SHVOrkmM6kLMc8yrRWWg4R5sxA9C8/"
+          }
+        ],
+        "Teoria-Enlinea": [
+          {
+            "id": 2,
+            "url": "https://docs.google.com/document/d/1L7aYoQkfPtdN13SHVOrkmM6kLMc8yrRWWg4R5sxA9C8/"
+          }
+        ],
+        "Envidencia-Conocimiento": [
+          {
+            "id": 3,
+            "url": "https://docs.google.com/document/d/1-Pas1q1wyuH_coit4xnweo7tPk4h16_DO1VFzkv-SHg/"
+          }
+        ],
+        "Envidencia-Desempeno": [
+          {
+            "id": 4,
+            "url": "https://docs.google.com/document/d/1ky7Q9EUaU0Amt8dCq04tw9MWqylRI3sfboqEBz17duk/"
+          }
+        ],
+        "Envidencia-Producto": [
+          {
+            "id": 5,
+            "url": "https://docs.google.com/document/d/1s2dNCr10GylYxTNfvLpSsd1wWI0ExEcTJ1nN5W5sSOA/"
+          }
+        ],
+        "Tarea": [
+          {
+            "id": 6,
+            "url": "https://docs.google.com/document/d/1azA2MoZTdPU8i9tOiESeAqjs6BZl0RPjyEagOGHSixU/"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Logica proposicional"
+      },
+      {
+        "id": 3,
+        "nombre": "Algebra de boole"
+      },
+      {
+        "id": 4,
+        "nombre": "Algebra de matrices"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "icono": "bi-file-earmark-text",
+    "nombre": "Teoría descargable",
+    "descripcion": "En el siguiente enlace podrá descargar el material teórico en formato editable (docx) o pdf:",
+    "color": "#9b59b6",
+    "estado": "active show"
+  },
+  {
+    "id": 2,
+    "icono": "bi-eye-fill",
+    "nombre": "Teoría en línea",
+    "descripcion": "En el siguiente enlace podrá descargar el material teórico en formato editable (docx) o pdf.",
+    "color": "#0d6efd",
+    "estado": ""
+  },
+  {
+    "id": 3,
+    "icono": "bi-book",
+    "nombre": "Evidencia de conocimiento",
+    "descripcion": "Se recomiendan las siguientes actividades para obtener una evidencias de conocimientos:",
+    "color": "#fd7e14",
+    "estado": ""
+  },
+  {
+    "id": 4,
+    "icono": "bi-graph-up-arrow",
+    "nombre": "Evidencia de desempeño",
+    "descripcion": " Se recomiendan las siguientes actividades para obtener una evidencias de desempeño:",
+    "color": "#ffc300",
+    "estado": ""
+  },
+  {
+    "id": 5,
+    "icono": "bi-rocket-takeoff",
+    "nombre": "Evidencia de producto",
+    "descripcion": "Se recomiendan las siguientes actividades para obtener una evidencias de producto:",
+    "color": "#20c997",
+    "estado": ""
+  },
+  {
+    "id": 6,
+    "icono": "bi-backpack2",
+    "nombre": "Tarea",
+    "descripcion": "Se recomiendan las siguientes actividades para asignar tareas al hogar:",
+    "color": "#e74c3c",
+    "estado": ""
+  }
+]
