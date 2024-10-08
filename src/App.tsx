@@ -1,8 +1,10 @@
+
 // import "./App.css";
 import { Home } from "./pages/Home";
 import { Decimo } from "./pages/Decimo";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-// import React, { useEffect } from "react";
+import React, { useEffect } from "react";
+
 
 function App() {
   // useEffect(() => {
@@ -27,12 +29,14 @@ function App() {
   // }, []); // The empty array ensures this effect only runs once when the component mounts
 
   return (
+
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/materiales" element={<Decimo />} />
       </Routes>
     </BrowserRouter>
+
   );
 }
 
